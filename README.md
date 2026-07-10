@@ -28,3 +28,4 @@ jenkins pipeline setup
 2. Set pipeline def to "Pipeline script from SCM." point at this Github repo 
 3. Set Script Path to jenkins file 
 4. Ebanble "github hook trigger and GITScm polling' under Build Triggers/   
+# Testing automatic webhook trigger
